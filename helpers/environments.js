@@ -9,6 +9,11 @@ environments.staging = {
     envName: 'staging',
     secrateKey: 'qwerty',
     maxChecks: 5,
+    twilio: {
+        fromPhone: '+12023353675',
+        accountSid: 'from your twillo',
+        authToken: 'from your twillo',
+    },
 };
 environments.production = {
     port: 4000,
