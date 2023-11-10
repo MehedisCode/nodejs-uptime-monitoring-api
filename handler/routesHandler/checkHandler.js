@@ -24,7 +24,6 @@ const { createRandomString } = require('../../helpers/utilitise');
 const { parseJSON } = require('../../helpers/utilitise');
 const tokenHandler = require('./tokenHandler');
 const { maxChecks } = require('../../helpers/environments');
-const { check } = require('../../routes');
 // const { requestProperties } = require('../../helpers/handleReqRes');
 
 const handler = {};

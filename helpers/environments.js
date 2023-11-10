@@ -11,8 +11,8 @@ environments.staging = {
     maxChecks: 5,
     twilio: {
         fromPhone: '+12023353675',
-        accountSid: 'from your twillo',
-        authToken: 'from your twillo',
+        accountSid: 'ACa215a6620f8f0f69851b2f8d3c5835ae',
+        authToken: 'd6287bd35e535d9e0bd8d1ecfdc7dcea',
     },
 };
 environments.production = {
